@@ -1,16 +1,35 @@
-## Hi there 👋
+# Thiago dos Santos Araújo
 
-<!--
-**Thigas014/Thigas014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvedor de Software | Java, Spring Boot, React e Python
 
-Here are some ideas to get you started:
+Sou graduado em **Análise e Desenvolvimento de Sistemas pelo IFPB** e desenvolvedor de software. Gosto de transformar necessidades reais em soluções bem estruturadas, trabalhando tanto no desenvolvimento de aplicações web quanto em projetos de pesquisa com visão computacional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, tenho aprofundado minha experiência em aplicações **full stack**, APIs REST e integração entre serviços.
+
+## Tecnologias
+
+- **Backend:** Java, Spring Boot, Spring Security, JWT
+- **Frontend:** React, TypeScript, Vite, Tailwind CSS
+- **Dados:** PostgreSQL
+- **Visão computacional:** Python, OpenCV, CVZone e YOLO
+
+## Projetos em destaque
+
+- [**Parahybaja — Backend**](https://github.com/Thigas014/Backend-Parahybaja) · API para apoiar a gestão de vendas, metas, presenças, calendário e informações financeiras da equipe.
+- [**Parahybaja — Frontend**](https://github.com/Thigas014/Frontend-Parahybaja) · Interface web da aplicação, desenvolvida com React e TypeScript.
+- [**Monitoramento inteligente com visão computacional**](https://github.com/Thigas014/VisaoComputacional) · Projeto de pesquisa para monitoramento de áreas externas de instituições educacionais com Python, OpenCV e YOLO.
+- [**Projeto Livros**](https://github.com/Thigas014/Projeto_Livros) · Aplicação Java para abrir e ler livros em PDF, com interface construída em Java Swing e organização MVC.
+- [**Padrões estruturais**](https://github.com/Thigas014/PadroesEstruturais) · Exemplos práticos de padrões de projeto estruturais em Java.
+
+## Formação e pesquisa
+
+Graduado em **Análise e Desenvolvimento de Sistemas pelo Instituto Federal da Paraíba (IFPB)**. Participei de projeto de pesquisa PIBITI sobre monitoramento inteligente com visão computacional, apresentado em eventos acadêmicos e publicado na Revista OWL.
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/thiago-dos-santos-araujo/)
+- [ORCID](https://orcid.org/0009-0000-1325-6572)
+
+---
+
+*Este perfil reúne projetos acadêmicos e práticos desenvolvidos ao longo da minha trajetória em tecnologia.*
