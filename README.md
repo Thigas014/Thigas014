@@ -2,9 +2,9 @@
 
 ### Desenvolvedor de Software | Java, Spring Boot, React e Python
 
-Sou **Técnico em informática** e graduado em **Análise e Desenvolvimento de Sistemas pelo IFPB** e desenvolvedor de software. Gosto de transformar necessidades reais em soluções bem estruturadas, trabalhando tanto no desenvolvimento de aplicações web quanto em projetos de pesquisa com visão computacional.
+Sou **Técnico em Informática** e graduado em **Análise e Desenvolvimento de Sistemas pelo IFPB**. Gosto de transformar necessidades reais em soluções bem estruturadas, trabalhando tanto no desenvolvimento de aplicações web quanto em projetos de pesquisa com visão computacional.
 
-Atualmente, tenho aprofundado minha experiência em aplicações **Full Stack**, APIs REST, Testes e integração entre serviços.
+Atualmente, tenho aprofundado minha experiência em aplicações **Full Stack**, APIs REST, testes e integração entre serviços.
 
 ## Tecnologias
 
@@ -22,10 +22,11 @@ Atualmente, tenho aprofundado minha experiência em aplicações **Full Stack**,
 
 ## Formação e pesquisa
 
-**Técnico em Informática ** e Graduado em **Análise e Desenvolvimento de Sistemas pelo Instituto Federal da Paraíba (IFPB)**. Participei de projeto de pesquisa PIBITI sobre monitoramento inteligente com visão computacional, apresentado em eventos acadêmicos e publicado na Revista OWL.
+Técnico em Informática e graduado em **Análise e Desenvolvimento de Sistemas pelo Instituto Federal da Paraíba (IFPB)**. Participei de projeto de pesquisa PIBITI sobre monitoramento inteligente com visão computacional, apresentado em eventos acadêmicos e publicado na Revista OWL.
 
 ## Contato
 
+- [E-mail](mailto:thiagopessoal.jjpa@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/thiago-dos-santos-araujo/)
 - [ORCID](https://orcid.org/0009-0000-1325-6572)
 
