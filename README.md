@@ -2,9 +2,9 @@
 
 ### Desenvolvedor de Software | Java, Spring Boot, React e Python
 
-Sou graduado em **Análise e Desenvolvimento de Sistemas pelo IFPB** e desenvolvedor de software. Gosto de transformar necessidades reais em soluções bem estruturadas, trabalhando tanto no desenvolvimento de aplicações web quanto em projetos de pesquisa com visão computacional.
+Sou **Técnico em informática** e graduado em **Análise e Desenvolvimento de Sistemas pelo IFPB** e desenvolvedor de software. Gosto de transformar necessidades reais em soluções bem estruturadas, trabalhando tanto no desenvolvimento de aplicações web quanto em projetos de pesquisa com visão computacional.
 
-Atualmente, tenho aprofundado minha experiência em aplicações **full stack**, APIs REST e integração entre serviços.
+Atualmente, tenho aprofundado minha experiência em aplicações **Full Stack**, APIs REST, Testes e integração entre serviços.
 
 ## Tecnologias
 
@@ -19,11 +19,10 @@ Atualmente, tenho aprofundado minha experiência em aplicações **full stack**,
 - [**Parahybaja — Frontend**](https://github.com/Thigas014/Frontend-Parahybaja) · Interface web da aplicação, desenvolvida com React e TypeScript.
 - [**Monitoramento inteligente com visão computacional**](https://github.com/Thigas014/VisaoComputacional) · Projeto de pesquisa para monitoramento de áreas externas de instituições educacionais com Python, OpenCV e YOLO.
 - [**Projeto Livros**](https://github.com/Thigas014/Projeto_Livros) · Aplicação Java para abrir e ler livros em PDF, com interface construída em Java Swing e organização MVC.
-- [**Padrões estruturais**](https://github.com/Thigas014/PadroesEstruturais) · Exemplos práticos de padrões de projeto estruturais em Java.
 
 ## Formação e pesquisa
 
-Graduado em **Análise e Desenvolvimento de Sistemas pelo Instituto Federal da Paraíba (IFPB)**. Participei de projeto de pesquisa PIBITI sobre monitoramento inteligente com visão computacional, apresentado em eventos acadêmicos e publicado na Revista OWL.
+**Técnico em Informática ** e Graduado em **Análise e Desenvolvimento de Sistemas pelo Instituto Federal da Paraíba (IFPB)**. Participei de projeto de pesquisa PIBITI sobre monitoramento inteligente com visão computacional, apresentado em eventos acadêmicos e publicado na Revista OWL.
 
 ## Contato
 
